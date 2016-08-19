@@ -7,11 +7,13 @@ new backend.  Feel free to hit me up with any questions.
 To launch the Angular APP, you'll need the Dart SDK.  Once installed
 
 `$ pub get`
+
 `$ pub serve`
 
 To run the Rails backend, simply type
 
 `$ bundle install`
+
 `$ rails s`
 
 Open a browser at http://localhost:8080 and you're ready to go.
